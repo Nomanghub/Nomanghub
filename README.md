@@ -1,5 +1,5 @@
 [![MasterHead](https://www.susla.edu/assets/susla/images/WebDevelopmentImage.jpeg)](techofly.com)
-<h1 align="center">Hi 👋, I'm Noman Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Abdullah All Noman</h1>
 <h3 align="center">A passionate frontend and backend web developer</h3>
 <img align="right" alt="web developer" width="500" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomanghub&label=Profile%20views&color=0e75b6&style=flat" alt="nomanghub" /> </p>
@@ -21,7 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/noman39038194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="noman39038194" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/noman-abdullah-3900a0203" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noman-abdullah-3900a0203" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abdullah-al-noman-3900a0203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noman-abdullah-3900a0203" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
