@@ -1,4 +1,4 @@
-[![MasterHead](https://www.susla.edu/assets/susla/images/WebDevelopmentImage.jpeg)](https://websailorit.com/)
+[![MasterHead](https://www.susla.edu/assets/susla/images/WebDevelopmentImage.jpeg)](techofly.com)
 <h1 align="center">Hi 👋, I'm Noman Abdullah</h1>
 <h3 align="center">A passionate frontend and backend web developer</h3>
 <img align="right" alt="web developer" width="500" src="https://cdn.dribbble.com/users/1233499/screenshots/3850691/web-development.gif"/>
@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Vue.js**
 
-- 👨‍💻 All of my projects are available at [WebsailorIT](https://websailorit.com/)
+- 👨‍💻 All of my projects are available at [Techofly](https://techofly.com/)
 
 - 💬 Ask me about **PHP,Laravel,Javescript,WordPress**
 
